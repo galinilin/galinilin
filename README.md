@@ -4,6 +4,7 @@
 
 ### 🔗 Connect with Me  
 [![Connect on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/galiun)
+[![Subscribe on Substack](https://img.shields.io/badge/-substack-orange?style=for-the-badge&logo=substack&logoColor=fff)](https://substack.com/@galinilin)
 
 ### About Me  
 I am a hands-on engineer with 7+ years of deep engagement in Machine Learning (from early seq2seq/GANs to modern Agentic AI systems) and 4+ years of production Full-Stack experience. In my current work, I aim to bridge the gap between "what AI can do" in theory and "what AI should do for us" in practice.
@@ -24,6 +25,7 @@ A hands-on implementation of the encoder-decoder architecture with attention mec
 <h3 align="left">My latest articles</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [As We Move Towards Agentic AI: RAG, MCP, Test-time compute and all that](https://galinilin.substack.com/p/as-we-move-towards-agentic-ai-rag)
 - [Genetik mi Algoritmalar?  #2: DEAP!](https://medium.com/rsparametrelerbutunu/genetik-mi-algoritmalar-2-deap-faaaaab756f7?source=rss-873ea545dd09------2)
 - [Genetik mi Algoritmalar?  #1: Evet.](https://medium.com/rsparametrelerbutunu/genetik-mi-algoritmalar-1-evet-9fded872060b?source=rss-873ea545dd09------2)
 <!-- BLOG-POST-LIST:END -->
