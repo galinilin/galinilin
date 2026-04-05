@@ -25,6 +25,7 @@ A hands-on implementation of the encoder-decoder architecture with attention mec
 <h3 align="left">My latest articles</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Code already has structure, why are we throwing that away?](https://galinilin.substack.com/p/code-already-has-structure-why-are)
 - [As We Move Towards Agentic AI: RAG, MCP, Test-time compute and all that](https://galinilin.substack.com/p/as-we-move-towards-agentic-ai-rag)
 - [Genetik mi Algoritmalar?  #2: DEAP!](https://medium.com/rsparametrelerbutunu/genetik-mi-algoritmalar-2-deap-faaaaab756f7?source=rss-873ea545dd09------2)
 - [Genetik mi Algoritmalar?  #1: Evet.](https://medium.com/rsparametrelerbutunu/genetik-mi-algoritmalar-1-evet-9fded872060b?source=rss-873ea545dd09------2)
