@@ -5,8 +5,8 @@
 ### 🔗 Connect with Me  
 [![Connect on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/galiun)
 [![Subscribe on Substack](https://img.shields.io/badge/-substack-orange?style=for-the-badge&logo=substack&logoColor=fff)](https://substack.com/@galinilin)
-[![Follow on Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium-black&logoColor=fff)](https://medium.com/@galinilin)
 [![Follow on X](https://img.shields.io/badge/-x-black?style=for-the-badge&logo=x&logoColor=fff)](https://x.com/galinilin)
+[![Follow on Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium-black&logoColor=fff)](https://medium.com/@galinilin)
 
 ### About Me  
 I am a hands-on engineer with 7+ years of deep engagement in Machine Learning (from early seq2seq/GANs to modern Agentic AI systems) and 4+ years of production Full-Stack experience. In my current work, I aim to bridge the gap between "what AI can do" in theory and "what AI should do for us" in practice.
