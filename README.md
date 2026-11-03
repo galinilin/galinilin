@@ -6,7 +6,7 @@ machine learning since 2017, full-stack since 2019, **self-taught**. i aim to br
 
 i see ai not as a product for the few, but as a **collective achievement** that should work like a **universal utility**.
 
-[hey@galinilin.com](mailto:hey@galinilin.com) · [github](https://github.com/galinilin) · [hugging face](https://huggingface.co/galinilin) · [linkedin](https://www.linkedin.com/in/galiun) · [substack](https://galinilin.substack.com) · [x](https://x.com/galinilin) · [medium](https://medium.com/@galinilin)
+[hey@galinilin.com](mailto:hey@galinilin.com) · [github](https://github.com/galinilin) · [hugging face](https://huggingface.co/galinilin) · [linkedin](https://www.linkedin.com/in/galiun) · [substack](https://galinilin.substack.com) · [x](https://x.com/galinilin)
 
 ### projects
 
