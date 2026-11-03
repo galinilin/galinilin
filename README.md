@@ -1,23 +1,41 @@
-<!-- Start of bio -->
-# **Gali** here! 👋
-## **Machine Learning Engineer**  
+<a href="https://galinilin.com"><img src="assets/header.svg" width="100%" alt="Gali Ün: big techie nerd, ai for greater good"></a>
 
-### 🔗 Connect with Me  
-[![Connect on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/galiun)
-[![Subscribe on Substack](https://img.shields.io/badge/-substack-orange?style=for-the-badge&logo=substack&logoColor=fff)](https://substack.com/@galinilin)
-[![Follow on X](https://img.shields.io/badge/-x-black?style=for-the-badge&logo=x&logoColor=fff)](https://x.com/galinilin)
-[![Follow on Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium-black&logoColor=fff)](https://medium.com/@galinilin)
+**ai engineer** · istanbul, open to relocation or remote · [galinilin.com](https://galinilin.com)
 
-### About Me  
-I am a hands-on engineer with 7+ years of deep engagement in Machine Learning (from early seq2seq/GANs to modern Agentic AI systems) and 4+ years of production Full-Stack experience. In my current work, I aim to bridge the gap between "what AI can do" in theory and "what AI should do for us" in practice.
+machine learning since 2017, full-stack since 2019, **self-taught**. i aim to bridge the gap between what ai can do in theory and what it should do for us **in practice**.
 
-My motivation goes beyond code. I view Artificial Intelligence not as a product for the few, but as a collective achievement that should function as a universal utility. I believe the benefits of this technology belong to the world, and I am dedicated to engineering the infrastructure that turns this potential into a safe, borderless tool that fundamentally improves the condition of life.
+i see ai not as a product for the few, but as a **collective achievement** that should work like a **universal utility**.
 
-Currently, I am focused on building Agentic AIs, Reasoning LLMs while keeping an eye on cutting edge AI/ML research being made by the greatest minds. I apply rigorous engineering standards to orchestrate intelligent workflows that democratize access to intelligence and solve complex problems for the wellness of all living beings.
+<a href="https://galinilin.com"><img src="https://img.shields.io/badge/galinilin.com-000000?style=flat-square&logo=googlechrome&logoColor=FF6EB4" alt="galinilin.com"></a>
+<a href="https://www.linkedin.com/in/galiun"><img src="https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=fff" alt="linkedin"></a>
+<a href="https://galinilin.substack.com"><img src="https://img.shields.io/badge/substack-000000?style=flat-square&logo=substack&logoColor=fff" alt="substack"></a>
+<a href="https://huggingface.co/galinilin"><img src="https://img.shields.io/badge/hugging%20face-000000?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="hugging face"></a>
+<a href="https://x.com/galinilin"><img src="https://img.shields.io/badge/x-000000?style=flat-square&logo=x&logoColor=fff" alt="x"></a>
+<a href="https://medium.com/@galinilin"><img src="https://img.shields.io/badge/medium-000000?style=flat-square&logo=medium&logoColor=fff" alt="medium"></a>
 
-<!-- End of bio -->
+now: full stack engineer at [Genomize](https://genomize.com), agentic AI, in the product and in how the team builds it. before: generative AI for e-commerce at [Cypien AI](https://cypien.ai).
 
-<h3 align="left">My latest articles</h3>
+### projects
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/deepvariant/"><img src="assets/work-deepvariant.svg" width="100%" alt="DeepVariant in your browser"></a><br><b><a href="https://galinilin.com/work/deepvariant/">DeepVariant in your browser</a></b> <sub>2026</sub><br><sub>Google's variant caller, 22 MB, running in a browser tab.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/docgemma/"><img src="assets/work-docgemma.svg" width="100%" alt="DocGemma"></a><br><b><a href="https://galinilin.com/work/docgemma/">DocGemma</a></b> <sub>2026</sub><br><sub>A clinical AI agent that asks a human before every action.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/artificialneural-network/"><img src="assets/work-artificialneural-network.svg" width="100%" alt="artificialneural.network"></a><br><b><a href="https://galinilin.com/work/artificialneural-network/">artificialneural.network</a></b> <sub>2021</sub><br><sub>Build a neural network and watch it learn, in the browser.</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/teknofest-2018/"><img src="assets/work-teknofest-2018.svg" width="100%" alt="Teknofest 2018"></a><br><b><a href="https://galinilin.com/work/teknofest-2018/">Teknofest 2018</a></b> <sub>2018</sub><br><sub>A small seq2seq language model with attention. 3rd place.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/caelum/"><img src="assets/work-caelum.svg" width="100%" alt="Caelum 3D Engine"></a><br><b><a href="https://galinilin.com/work/caelum/">Caelum 3D Engine</a></b> <sub>2019</sub><br><sub>From scratch: lights, shadow maps, skeletal animation, FBX models.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/bipedalwalker-a3c/"><img src="assets/work-bipedalwalker-a3c.svg" width="100%" alt="BipedalWalker, A3C"></a><br><b><a href="https://galinilin.com/work/bipedalwalker-a3c/">BipedalWalker, A3C</a></b> <sub>2019</sub><br><sub>A two-legged walker learns to walk. 4 workers, ~21 hours on one CPU.</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/dueling-dqn-pong/"><img src="assets/work-dueling-dqn-pong.svg" width="100%" alt="Dueling DQN Pong"></a><br><b><a href="https://galinilin.com/work/dueling-dqn-pong/">Dueling DQN Pong</a></b> <sub>2019</sub><br><sub>Two agents learn Pong by playing each other.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/bios-graphics-editor/"><img src="assets/work-bios-graphics-editor.svg" width="100%" alt="BIOS graphics editor"></a><br><b><a href="https://galinilin.com/work/bios-graphics-editor/">BIOS graphics editor</a></b> <sub>2018</sub><br><sub>A paint program that boots from a USB stick, with no operating system. 1.8 KB.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/nncars/"><img src="assets/work-nncars.svg" width="100%" alt="NNCars"></a><br><b><a href="https://galinilin.com/work/nncars/">NNCars</a></b> <sub>2018</sub><br><sub>Cars learn to follow a road: neural networks, evolved by a genetic algorithm.</sub></td>
+</tr>
+</table>
+
+### writing
 
 <!-- BLOG-POST-LIST:START -->
 
