@@ -1,4 +1,4 @@
-## Gali Ün
+## [Gali Ün](https://galinilin.com)
 
 **ai engineer** · istanbul, open to relocation or remote
 
@@ -6,20 +6,20 @@ machine learning since 2017, full-stack since 2019, **self-taught**. i aim to br
 
 i see ai not as a product for the few, but as a **collective achievement** that should work like a **universal utility**.
 
-[galinilin.com](https://galinilin.com) · [linkedin](https://www.linkedin.com/in/galiun) · [hugging face](https://huggingface.co/galinilin) · [substack](https://galinilin.substack.com) · [medium](https://medium.com/@galinilin) · [x](https://x.com/galinilin) · [hey@galinilin.com](mailto:hey@galinilin.com)
+[hey@galinilin.com](mailto:hey@galinilin.com) · [github](https://github.com/galinilin) · [hugging face](https://huggingface.co/galinilin) · [linkedin](https://www.linkedin.com/in/galiun) · [substack](https://galinilin.substack.com) · [x](https://x.com/galinilin) · [medium](https://medium.com/@galinilin)
 
 ### projects
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://galinilin.com/work/deepvariant/"><img src="assets/work-deepvariant.png" width="120" height="66" alt="DeepVariant in your browser"></a><br><b><a href="https://galinilin.com/work/deepvariant/">DeepVariant in your browser</a></b> <sub>2026</sub><br><sub>Google's variant caller, 22 MB, running in a browser tab.</sub></td>
-<td width="33%" valign="top"><a href="https://galinilin.com/work/docgemma/"><img src="assets/work-docgemma.png" width="120" height="66" alt="DocGemma"></a><br><b><a href="https://galinilin.com/work/docgemma/">DocGemma</a></b> <sub>2026</sub><br><sub>A clinical AI agent that asks a human before every action.</sub></td>
-<td width="33%" valign="top"><a href="https://galinilin.com/work/artificialneural-network/"><img src="assets/work-artificialneural-network.png" width="120" height="66" alt="artificialneural.network"></a><br><b><a href="https://galinilin.com/work/artificialneural-network/">artificialneural.network</a></b> <sub>2021</sub><br><sub>Build a neural network and watch it learn, in the browser.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/deepvariant/"><img src="assets/work-deepvariant.svg" width="160" height="88" alt="DeepVariant in your browser"></a><br><b><a href="https://galinilin.com/work/deepvariant/">DeepVariant in your browser</a></b> <sub>2026</sub><br><sub>Google's variant caller, 22 MB, running in a browser tab.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/docgemma/"><img src="assets/work-docgemma.svg" width="160" height="88" alt="DocGemma"></a><br><b><a href="https://galinilin.com/work/docgemma/">DocGemma</a></b> <sub>2026</sub><br><sub>A clinical AI agent that asks a human before every action.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/artificialneural-network/"><img src="assets/work-artificialneural-network.svg" width="160" height="88" alt="artificialneural.network"></a><br><b><a href="https://galinilin.com/work/artificialneural-network/">artificialneural.network</a></b> <sub>2021</sub><br><sub>Build a neural network and watch it learn, in the browser.</sub></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://galinilin.com/work/teknofest-2018/"><img src="assets/work-teknofest-2018.png" width="120" height="66" alt="Teknofest 2018"></a><br><b><a href="https://galinilin.com/work/teknofest-2018/">Teknofest 2018</a></b> <sub>2018</sub><br><sub>A small seq2seq language model with attention. 3rd place.</sub></td>
-<td width="33%" valign="top"><a href="https://galinilin.com/work/caelum/"><img src="assets/work-caelum.png" width="120" height="66" alt="Caelum 3D Engine"></a><br><b><a href="https://galinilin.com/work/caelum/">Caelum 3D Engine</a></b> <sub>2019</sub><br><sub>From scratch: lights, shadow maps, skeletal animation, FBX models.</sub></td>
-<td width="33%" valign="top"><a href="https://galinilin.com/work/bipedalwalker-a3c/"><img src="assets/work-bipedalwalker-a3c.png" width="120" height="66" alt="BipedalWalker, A3C"></a><br><b><a href="https://galinilin.com/work/bipedalwalker-a3c/">BipedalWalker, A3C</a></b> <sub>2019</sub><br><sub>A two-legged walker learns to walk. 4 workers, ~21 hours on one CPU.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/teknofest-2018/"><img src="assets/work-teknofest-2018.svg" width="160" height="88" alt="Teknofest 2018"></a><br><b><a href="https://galinilin.com/work/teknofest-2018/">Teknofest 2018</a></b> <sub>2018</sub><br><sub>A small seq2seq language model with attention. 3rd place.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/caelum/"><img src="assets/work-caelum.svg" width="160" height="88" alt="Caelum 3D Engine"></a><br><b><a href="https://galinilin.com/work/caelum/">Caelum 3D Engine</a></b> <sub>2019</sub><br><sub>From scratch: lights, shadow maps, skeletal animation, FBX models.</sub></td>
+<td width="33%" valign="top"><a href="https://galinilin.com/work/bipedalwalker-a3c/"><img src="assets/work-bipedalwalker-a3c.svg" width="160" height="88" alt="BipedalWalker, A3C"></a><br><b><a href="https://galinilin.com/work/bipedalwalker-a3c/">BipedalWalker, A3C</a></b> <sub>2019</sub><br><sub>A two-legged walker learns to walk. 4 workers, ~21 hours on one CPU.</sub></td>
 </tr>
 </table>
 
